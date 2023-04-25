@@ -15,8 +15,12 @@
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "next": "13.3.1",
+    "next-translate": "^2.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "next-translate-plugin": "^2.0.5"
   }
 }
